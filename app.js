@@ -1,5 +1,5 @@
 // JavaScript for including HTML in Browser 
-// what the heck?
+// what the hecky peck?
 function includeHTML() {
   var z, i, elmnt, file, xhttp;
   /*loop through a collection of all HTML elements:*/
