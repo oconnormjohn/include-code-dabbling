@@ -1,5 +1,5 @@
 // JavaScript for including HTML in Browser 
-// what the hecky peck?
+// Amendment made on testing branch and committed
 function includeHTML() {
   var z, i, elmnt, file, xhttp;
   /*loop through a collection of all HTML elements:*/
