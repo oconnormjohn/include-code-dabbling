@@ -1,5 +1,6 @@
 // JavaScript for including HTML in Browser 
 // Amendment made on testing branch and committed
+// Changing app.js in testing branch
 function includeHTML() {
   var z, i, elmnt, file, xhttp;
   /*loop through a collection of all HTML elements:*/
