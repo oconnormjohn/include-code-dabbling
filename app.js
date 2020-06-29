@@ -2,6 +2,7 @@
 // what the hecky peck?
 // For git learning - here's another change in Master branch
 // Issue 53 fix...
+// Return to issue 53 after Hotfix. Now complete
 function includeHTML() {
   var z, i, elmnt, file, xhttp;
   /*loop through a collection of all HTML elements:*/
