@@ -2,6 +2,9 @@
 // what the hecky peck?
 // For git learning - here's another change in Master branch
 // More Git learning - Hotfix for broken email
+// Issue 53 fix...
+// Return to issue 53 after Hotfix. Now complete
+// All conflicts should be sorted now...
 function includeHTML() {
   var z, i, elmnt, file, xhttp;
   /*loop through a collection of all HTML elements:*/
