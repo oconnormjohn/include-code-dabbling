@@ -5,6 +5,7 @@
 // Issue 53 fix...
 // Return to issue 53 after Hotfix. Now complete
 // All conflicts should be sorted now...
+// Amendment made on testing branch and committed
 function includeHTML() {
   var z, i, elmnt, file, xhttp;
   /*loop through a collection of all HTML elements:*/
